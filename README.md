@@ -10,5 +10,8 @@ El archivo QRcodereader.py corresponde a la lectura de codigos QR desde la camar
 
 Dos ejemplos de funcionamiento del código
 En el robot real:
+https://drive.google.com/file/d/1S6KXmhCY3bYuTcwKsoc2ZnxXmYpDoB77/view?usp=share_link
 
 En simulación:
+https://drive.google.com/file/d/1KObf_zUb7mv1K7c9Vs9nVZ0heTF79699/view?usp=share_link
+
